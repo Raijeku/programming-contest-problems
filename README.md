@@ -22,3 +22,5 @@ Set of solutions for programming contest problems in python
 | 11172         | Very Easy     | 26/04/2021 | Competitive Programming 3 book                             | Accepted     |
 | 11498         | Very Easy     | 26/04/2021 | Competitive Programming 3 book                             | Accepted     |
 | 11727         | Very Easy     | 26/04/2021 | Competitive Programming 3 book                             | Accepted     |
+| 11559         | Easy          | 27/04/2021 | Competitive Programming 3 book                             |              |
+| 11799         | Easy          | 27/04/2021 | Competitive Programming 3 book                             | Accepted     |
