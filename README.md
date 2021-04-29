@@ -1,5 +1,5 @@
 # Programming Contest Problems
-Set of solutions for programming contest problems in python
+Set of solutions for programming contest problems in Python and Java
 
 ## Problem resolution dates
 
@@ -24,3 +24,4 @@ Set of solutions for programming contest problems in python
 | 11727         | Very Easy     | 26/04/2021 | Competitive Programming 3 book                             | Accepted     |
 | 11559         | Easy          | 27/04/2021 | Competitive Programming 3 book                             |              |
 | 11799         | Easy          | 27/04/2021 | Competitive Programming 3 book                             | Accepted     |
+| 10141         | Medium        | 29/04/2021 | Competitive Programming 3 book                             |              |
