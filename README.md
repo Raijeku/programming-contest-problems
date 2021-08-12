@@ -1,10 +1,10 @@
 # Programming Contest Problems
-Set of solutions for programming contest problems in Python and Java
+Set of solutions for programming contest problems in Python and Java for University of Antioquia's Competitive Programming Club, RPC (Competitive Programming Network in Colombia) and ICPC problems.
 
 ## Problem resolution dates
 
 | Code          | Difficulty    | Date       | Motive                                                     | Status       |
-|:-------------:|:-------------:|:----------:|:----------------------------------------------------------:| :-----------:|
+|:-------------:|:-------------:|:----------:|:----------------------------------------------------------:|:------------:|
 | 11507         | Medium        | 02/08/2019 | Programming Contest Club                                   | Wrong Answer |
 | 573           | Medium        | 05/08/2019 | Programming Contest Club                                   |              |
 | RPC08         | Contest       | 12/08/2019 | Red de Programación Competitiva Contest                    |              |

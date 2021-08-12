@@ -8,7 +8,7 @@ while string!='0 0':
     requirements = []
     proposals = []
     prices = []
-    compliant = [-1]*p
+    compliant = [float('inf')]*p
     partially_compliant = [-1]*p
     for i in range(n):
         requirements.append(input())
@@ -29,12 +29,15 @@ while string!='0 0':
     elif compliant.count(min(compliant))==1:
         selected = compliant.index(min(compliant))
     else:
-        selected = 0
+        for i in range(len(compliant)):
+            if compliant[i] == min(compliant):
+                selected = i
     selected_proposals.append(proposals[selected])
 
     string = input()
 
 for proposal in selected_proposals:
     print('RFP #{0}'.format(RFP_num))
-    print(proposal+"\n")
+    if RFP_num == p+1: print(proposal)
+    else: print(proposal+"\n")
     RFP_num += 1
